@@ -1,2 +1,2 @@
 # AZ-400
-Intergating GitHib with AzureDO
+Intergating GitHub with AzureDO
